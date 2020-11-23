@@ -1,0 +1,23 @@
+
+.home-page{
+    margin-top: 50px;
+}
+
+.add{
+    display: flex;
+    justify-content: space-between;
+    height: 54px;
+    background-color: black;
+}
+.add h4{
+    color: white;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    font-size: 17px;
+}
+.add .btn{ 
+    flex-direction: row-reverse;
+   margin-right: 10px;
+   height: 2.5rem;
+    margin-top: 7px;
+}
