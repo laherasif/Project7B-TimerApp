@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './timer.css';
 import TimerButton from '../TimerButton';
 
